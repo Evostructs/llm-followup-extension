@@ -10,6 +10,8 @@
 
 ## 中文说明
 
+**本项目由 Evostructs 在 OpenAI Codex 的帮助下开发。**
+
 ### 痛点
 
 在 ChatGPT / Claude / Gemini / DeepSeek 等大模型网页上看长回答时，遇到陌生术语想追问，必须滚到底部输入框，问完又要翻回原段落——阅读线被一次次打断。
@@ -84,6 +86,8 @@ MIT — 见 [LICENSE](./LICENSE)
 ---
 
 ## English
+
+**Developed by Evostructs with assistance from OpenAI Codex.**
 
 ### What it does
 
