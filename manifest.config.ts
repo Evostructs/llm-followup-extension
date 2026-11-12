@@ -35,7 +35,7 @@ export default defineManifest({
   version: pkg.version,
   description: pkg.description,
   author: { email: 'wangjc01@foxmail.com' },
-  homepage_url: 'https://github.com/BillWang0101/llm-followup-extension',
+  homepage_url: 'https://github.com/Evostructs/llm-followup-extension',
   action: {
     default_title: 'LLM 旁注追问',
     default_popup: 'src/popup/popup.html',
